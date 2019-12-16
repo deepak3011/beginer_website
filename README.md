@@ -1,2 +1,4 @@
-# beginer_website
-The most basic free website that a beginner can create!
+# Welcome to the easiest free webiste for beginers ever!
+### I cant wait to see what you create!
+
+** I hope you have so much fun creating your website! **
